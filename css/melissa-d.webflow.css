@@ -2006,10 +2006,6 @@ p {
     padding-right: 16px;
   }
 
-  .hero-wrap {
-    height: 85vh;
-  }
-
   .fs-cc-banner_text-link {
     padding-top: 8px;
     padding-bottom: 8px;
@@ -2043,10 +2039,6 @@ p {
 
   .txt-xl {
     font-size: 3rem;
-  }
-
-  .scroll-wrap {
-    height: 165vh;
   }
 
   .body-l {
@@ -2101,10 +2093,6 @@ p {
 
   .body-s {
     font-size: 1.125rem;
-  }
-
-  .prelo {
-    height: 85vh;
   }
 
   .centered-header-wrap.chw-maxw {
