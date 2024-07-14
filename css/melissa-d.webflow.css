@@ -1326,7 +1326,7 @@ p {
   position: relative;
 }
 
-.about-last-img {
+.about-img-3 {
   border-radius: 12px;
   width: 270px;
   position: relative;
@@ -1965,7 +1965,7 @@ p {
     height: 100%;
   }
 
-  .about-last-img {
+  .about-img-3 {
     order: 1;
     align-self: center;
     width: 230px;
