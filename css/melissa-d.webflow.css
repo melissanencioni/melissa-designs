@@ -627,7 +627,7 @@ p {
 .body-m.project-desc {
   color: var(--white);
   max-width: 620px;
-  margin-top: 24px;
+  margin-top: 12px;
   font-size: 1.25rem;
 }
 
@@ -804,7 +804,7 @@ p {
   color: var(--white);
   background-color: rgba(255, 255, 255, .2);
   border-radius: 100px;
-  margin-top: 30px;
+  margin-top: 16px;
   padding: 16px 32px 14px;
   position: relative;
   overflow: hidden;
@@ -2152,10 +2152,6 @@ p {
 
   .body-m {
     font-size: 1.125rem;
-  }
-
-  .body-m.project-desc {
-    font-size: 1rem;
   }
 
   .feedback-wrap {
