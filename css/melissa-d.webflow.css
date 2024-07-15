@@ -779,6 +779,10 @@ p {
   margin-bottom: 16px;
 }
 
+.btn-prim.contact-btn-mobile-only {
+  display: none;
+}
+
 .project-info-wrap {
   z-index: 2;
   position: absolute;
@@ -1645,6 +1649,14 @@ p {
 
   .cta-img {
     height: 180px;
+  }
+
+  .btn-prim.contact-btn-mobile-only {
+    display: block;
+  }
+
+  .btn-prim.contact-btn-desktop-only {
+    display: none;
   }
 
   .project-info-wrap {
