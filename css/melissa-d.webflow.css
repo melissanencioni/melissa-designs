@@ -1242,6 +1242,8 @@ p {
 }
 
 .services-header-wrap {
+  grid-column-gap: 12px;
+  grid-row-gap: 12px;
   text-align: center;
   flex-flow: column;
   justify-content: flex-start;
@@ -1725,7 +1727,7 @@ p {
 
   .services-header-wrap {
     text-align: left;
-    max-width: 600px;
+    max-width: 500px;
   }
 
   .about-img-1 {
@@ -1831,6 +1833,10 @@ p {
     height: 450px;
   }
 
+  .project-title {
+    margin-bottom: 0;
+  }
+
   .home-services-block {
     margin-top: 200px;
   }
@@ -1842,6 +1848,11 @@ p {
 
   .body-m {
     font-size: 1.25rem;
+  }
+
+  .body-m.project-desc {
+    margin-top: 16px;
+    font-size: 1.125rem;
   }
 
   .body-m.txt-testimonials {
@@ -1882,11 +1893,17 @@ p {
     padding: 32px;
   }
 
+  .btn-project {
+    margin-top: 12px;
+  }
+
   .footer {
-    grid-column-gap: 8px;
-    grid-row-gap: 8px;
+    grid-column-gap: 12px;
+    grid-row-gap: 12px;
     flex-flow: column;
-    padding-bottom: 24px;
+    padding-bottom: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 
   .prelo {
@@ -2125,6 +2142,10 @@ p {
     font-size: 1.125rem;
   }
 
+  .body-m.project-desc {
+    font-size: 1rem;
+  }
+
   .feedback-wrap {
     max-width: 280px;
   }
@@ -2164,8 +2185,6 @@ p {
   }
 
   .services-grid {
-    grid-column-gap: 0px;
-    grid-row-gap: 0px;
     margin-top: 32px;
   }
 
@@ -2186,6 +2205,10 @@ p {
     grid-column-gap: 5px;
     grid-row-gap: 5px;
     flex-flow: column;
+  }
+
+  .services-header-wrap {
+    max-width: 400px;
   }
 
   .about-img-wrap {
