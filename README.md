@@ -1,4 +1,4 @@
-# Hello, this is my portfolio!
+## Hello, this is my portfolio!
 
 Next steps:
 - adding Contentful CMS
